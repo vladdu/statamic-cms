@@ -76,3 +76,4 @@ Vue.component('user_groups-fieldtype', UserGroupsFieldtype);
 Vue.component('user_roles-fieldtype', UserRolesFieldtype);
 Vue.component('video-fieldtype', require('../components/fieldtypes/VideoFieldtype.vue'));
 Vue.component('yaml-fieldtype', require('../components/fieldtypes/YamlFieldtype.vue'));
+Vue.component('wysiwyg-fieldtype', require('../components/fieldtypes/WysiwygFieldtype.vue'));

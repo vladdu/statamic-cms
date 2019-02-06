@@ -124,6 +124,7 @@ class ExtensionServiceProvider extends ServiceProvider
         Fieldtypes\Radio::class,
         Fieldtypes\Template::class,
         Fieldtypes\Time::class,
+        Fieldtypes\Wysiwyg::class,
     ];
 
     /**

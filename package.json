@@ -11,6 +11,8 @@
     "production": "node node_modules/cross-env/dist/bin/cross-env.js NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^11.2.0",
+    "@ckeditor/ckeditor5-vue": "^1.0.0-beta.1",
     "@shopify/draggable": "^1.0.0-beta.8",
     "autosize": "~3.0.12",
     "axios": "^0.18.0",
